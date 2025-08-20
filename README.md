@@ -26,9 +26,9 @@ The dataset consists of **200 rows** with the following columns:
 ## ⚙️ Installation
 Clone this repository and install dependencies:
 
-```bash
+
 git clone https://github.com/navaneethakrishnanms/Predicting-electricity-bill-using-linear-regression.git
-cd Predicting-electricity-bill-using-linear-regression
+
 pip install -r requirements.txt
 
 📦 Requirements
@@ -61,13 +61,13 @@ Customer Segmentation → Grouping by Customer_Type and Region.
 Feature Engineering → Categorized Peak_Hours_Units into ranges.
 ## OUTPUT IMAGES
 Peak hours vs OFFPeak hours(electricty bill)
-![Prediction Output](scat.png)
+![Alt Text](scat.png)
 
 Bill Amount for customer types
-![Prediction Output](boxplot.png)
+![Alt Text](boxplot.png)
 
 Correlation of Peak hours vs OffPeak hours
-![Prediction Output](corr.png)
+![Alt Text](corr.png)
 
 🧮 Model Building
 
